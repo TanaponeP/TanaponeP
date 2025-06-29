@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm TOM (TanaponeP)</h1>
-<h3 align="center">Python Developer | System Integrator | DevOps & Automation Specialist</h3>
+<h3 align="center">Full Stack Developer | System Integrator | DevOps & Automation Specialist</h3>
 
 ---
 
