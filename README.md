@@ -34,5 +34,3 @@
 - Coming soon: Blog & Public DevOps Labs 🚀
 
 ---
-
-> *“Secure the edge. Automate the scan. Deliver trusted results.”*
