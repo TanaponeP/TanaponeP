@@ -13,7 +13,7 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** Python, PHP, Bash, SQL
+- **Languages:** Python, PHP, Bash, SQL, JAVA
 - **Frameworks:** Django, Flask, CodeIgniter
 - **Tools:** OpenVAS, Greenbone, OWASP ZAP, Nessus, Git, Tailscale
 - **DevOps:** GitHub Actions, Jenkins , Docker
