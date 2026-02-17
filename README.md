@@ -7,7 +7,6 @@
 ### 👨‍💻 About Me
 - 🔭 Currently working on: `unitvas` – an internal vulnerability assessment system
 - 💼 I also build tools like `unitvas-box` (client agent), and `PowerScan`
-- 🌱 I’m currently learning: **DevOps**, **CI/CD**, and advanced **GVM automation**
 - ⚡ Fun fact: I automate anything I can, including boring security reports 😎
 
 ---
