@@ -20,8 +20,8 @@
 ---
 ### 📈 GitHub Stats
 <p align="center">
-  <img height="120em" src="https://gh-readme-stats.vercel.app/api?username=TanaponeP&show_icons=true&theme=tokyonight" />
-  <img height="120em" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=TanaponeP&layout=compact&theme=tokyonight" />
+  <img height="140em" src="https://gh-readme-stats.vercel.app/api?username=TanaponeP&show_icons=true&theme=tokyonight" />
+  <img height="140em" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=TanaponeP&layout=compact&theme=tokyonight" />
 </p>
 
 
