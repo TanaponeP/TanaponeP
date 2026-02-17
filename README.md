@@ -18,12 +18,12 @@
 - **DevOps:** GitHub Actions, Jenkins , Docker
 
 ---
-
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TanaponeP&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanaponeP&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://gh-readme-stats.vercel.app/api?username=TanaponeP&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=TanaponeP&layout=compact&theme=tokyonight" />
 </p>
+
 
 
 ---
