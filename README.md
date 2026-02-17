@@ -21,11 +21,10 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TanaponeP&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=TanaponeP&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanaponeP&layout=compact&theme=tokyonight" alt="langs" />
-  <img src="https://github-readme-stats.demolab.com/api?username=TanaponeP&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TanaponeP&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanaponeP&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
